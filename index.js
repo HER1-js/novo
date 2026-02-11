@@ -1,1 +1,1 @@
-console.log(Pensando em FullStack)
+Pensando em FullStack
